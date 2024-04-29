@@ -1,6 +1,7 @@
 # app_golden_raspberry_awards
 
-A new Flutter project.
+This projext provides an app to consult and access some dashboards about the golden raspberry awards.
+
 
 ### - The project is in development.
 ### - The project is not ready for production. 
