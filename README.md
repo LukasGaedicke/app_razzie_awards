@@ -40,4 +40,4 @@ These instructions will get you a copy of the project up and running on your loc
 2. Run the app in IDE.
 
 ### Download the compiled version for android
-1. 
+1. For download click on the link: https://drive.google.com/file/d/1W5IV7ux7E8ADZdeurSH9oyXVRouEzeCx/view
