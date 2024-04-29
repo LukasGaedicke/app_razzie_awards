@@ -1,0 +1,170 @@
+{
+    "content": [
+        {
+            "id": 96,
+            "year": 1998,
+            "title": "An Alan Smithee Film: Burn Hollywood Burn",
+            "studios": [
+                "Hollywood Pictures"
+            ],
+            "producers": [
+                "Ben Myron",
+                "Joe Eszterhas"
+            ],
+            "winner": true
+        },
+        {
+            "id": 101,
+            "year": 1999,
+            "title": "Wild Wild West",
+            "studios": [
+                "Warner Bros."
+            ],
+            "producers": [
+                "Barry Sonnenfeld",
+                "Jon Peters"
+            ],
+            "winner": true
+        },
+        {
+            "id": 106,
+            "year": 2000,
+            "title": "Battlefield Earth",
+            "studios": [
+                "Franchise Pictures",
+                "Warner Bros."
+            ],
+            "producers": [
+                "Elie Samaha",
+                "John Travolta",
+                "Jonathan D. Krane"
+            ],
+            "winner": true
+        },
+        {
+            "id": 111,
+            "year": 2001,
+            "title": "Freddy Got Fingered",
+            "studios": [
+                "20th Century Fox"
+            ],
+            "producers": [
+                "Howard Lapides",
+                "Larry Brezner",
+                "Lauren Lloyd"
+            ],
+            "winner": true
+        },
+        {
+            "id": 116,
+            "year": 2002,
+            "title": "Swept Away",
+            "studios": [
+                "Screen Gems"
+            ],
+            "producers": [
+                "Matthew Vaughn"
+            ],
+            "winner": true
+        },
+        {
+            "id": 121,
+            "year": 2003,
+            "title": "Gigli",
+            "studios": [
+                "Columbia Pictures",
+                "Revolution Studios"
+            ],
+            "producers": [
+                "Casey Silver",
+                "Martin Brest"
+            ],
+            "winner": true
+        },
+        {
+            "id": 126,
+            "year": 2004,
+            "title": "Catwoman",
+            "studios": [
+                "Warner Bros."
+            ],
+            "producers": [
+                "Denise Di Novi",
+                "Edward McDonnell"
+            ],
+            "winner": true
+        },
+        {
+            "id": 131,
+            "year": 2005,
+            "title": "Dirty Love",
+            "studios": [
+                "First Look Pictures"
+            ],
+            "producers": [
+                "BJ Davis",
+                "Jenny McCarthy",
+                "John Mallory Asher",
+                "Kimberley Kates",
+                "Michael Manasseri",
+                "Rod Hamilton",
+                "Trent Walford"
+            ],
+            "winner": true
+        },
+        {
+            "id": 136,
+            "year": 2006,
+            "title": "Basic Instinct 2",
+            "studios": [
+                "C2 Pictures",
+                "MGM"
+            ],
+            "producers": [
+                "Andrew G. Vajna",
+                "Joel B. Michaels",
+                "Mario Kassar"
+            ],
+            "winner": true
+        },
+        {
+            "id": 146,
+            "year": 2008,
+            "title": "The Love Guru",
+            "studios": [
+                "Paramount Pictures"
+            ],
+            "producers": [
+                "Gary Barber",
+                "Michael DeLuca",
+                "Mike Myers"
+            ],
+            "winner": true
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "unsorted": true,
+            "sorted": false,
+            "empty": true
+        },
+        "offset": 20,
+        "pageSize": 10,
+        "pageNumber": 2,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalPages": 5,
+    "totalElements": 42,
+    "last": false,
+    "size": 10,
+    "number": 2,
+    "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+    },
+    "first": false,
+    "numberOfElements": 10,
+    "empty": false
+}

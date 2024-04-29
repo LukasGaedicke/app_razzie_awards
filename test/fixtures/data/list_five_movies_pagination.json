@@ -1,0 +1,89 @@
+{
+    "content": [
+        {
+            "id": 6,
+            "year": 1980,
+            "title": "The Jazz Singer",
+            "studios": [
+                "Associated Film Distribution"
+            ],
+            "producers": [
+                "Jerry Leider"
+            ],
+            "winner": false
+        },
+        {
+            "id": 7,
+            "year": 1980,
+            "title": "Raise the Titanic",
+            "studios": [
+                "Associated Film Distribution"
+            ],
+            "producers": [
+                "William Frye"
+            ],
+            "winner": false
+        },
+        {
+            "id": 8,
+            "year": 1980,
+            "title": "Saturn 3",
+            "studios": [
+                "Associated Film Distribution"
+            ],
+            "producers": [
+                "Stanley Donen"
+            ],
+            "winner": false
+        },
+        {
+            "id": 9,
+            "year": 1980,
+            "title": "Windows",
+            "studios": [
+                "United Artists"
+            ],
+            "producers": [
+                "Mike Lobell"
+            ],
+            "winner": false
+        },
+        {
+            "id": 10,
+            "year": 1980,
+            "title": "Xanadu",
+            "studios": [
+                "Universal Studios"
+            ],
+            "producers": [
+                "Lawrence Gordon"
+            ],
+            "winner": false
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "unsorted": true,
+            "sorted": false,
+            "empty": true
+        },
+        "offset": 5,
+        "pageSize": 5,
+        "pageNumber": 1,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalPages": 42,
+    "totalElements": 206,
+    "last": false,
+    "size": 5,
+    "number": 1,
+    "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+    },
+    "first": false,
+    "numberOfElements": 5,
+    "empty": false
+}

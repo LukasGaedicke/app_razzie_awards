@@ -1,0 +1,283 @@
+{
+    "content": [
+        {
+            "id": 25,
+            "year": 1983,
+            "title": "Two of a Kind",
+            "studios": [
+                "20th Century Fox"
+            ],
+            "producers": [
+                "Joe Wizan",
+                "Roger M. Rothstein"
+            ],
+            "winner": false
+        },
+        {
+            "id": 27,
+            "year": 1984,
+            "title": "Cannonball Run II",
+            "studios": [
+                "Warner Bros."
+            ],
+            "producers": [
+                "Albert S. Ruddy"
+            ],
+            "winner": false
+        },
+        {
+            "id": 28,
+            "year": 1984,
+            "title": "Rhinestone",
+            "studios": [
+                "20th Century Fox"
+            ],
+            "producers": [
+                "Howard Smith",
+                "Marvin Worth"
+            ],
+            "winner": false
+        },
+        {
+            "id": 29,
+            "year": 1984,
+            "title": "Sheena",
+            "studios": [
+                "Columbia Pictures"
+            ],
+            "producers": [
+                "Paul Aratow"
+            ],
+            "winner": false
+        },
+        {
+            "id": 30,
+            "year": 1984,
+            "title": "Where the Boys Are '84",
+            "studios": [
+                "TriStar Pictures"
+            ],
+            "producers": [
+                "Allan Carr"
+            ],
+            "winner": false
+        },
+        {
+            "id": 32,
+            "year": 1985,
+            "title": "Fever Pitch",
+            "studios": [
+                "MGM",
+                "United Artists"
+            ],
+            "producers": [
+                "Freddie Fields"
+            ],
+            "winner": false
+        },
+        {
+            "id": 33,
+            "year": 1985,
+            "title": "Revolution",
+            "studios": [
+                "Warner Bros."
+            ],
+            "producers": [
+                "Irwin Winkler"
+            ],
+            "winner": false
+        },
+        {
+            "id": 34,
+            "year": 1985,
+            "title": "Rocky IV",
+            "studios": [
+                "MGM",
+                "United Artists"
+            ],
+            "producers": [
+                "Irwin Winkler",
+                "Robert Chartoff"
+            ],
+            "winner": false
+        },
+        {
+            "id": 35,
+            "year": 1985,
+            "title": "Year of the Dragon",
+            "studios": [
+                "MGM",
+                "United Artists"
+            ],
+            "producers": [
+                "Dino De Laurentiis"
+            ],
+            "winner": false
+        },
+        {
+            "id": 38,
+            "year": 1986,
+            "title": "Blue City",
+            "studios": [
+                "Paramount Pictures"
+            ],
+            "producers": [
+                "Walter Hill",
+                "William L. Hayward"
+            ],
+            "winner": false
+        },
+        {
+            "id": 39,
+            "year": 1986,
+            "title": "Cobra",
+            "studios": [
+                "Cannon Films",
+                "Warner Bros."
+            ],
+            "producers": [
+                "Menahem Golan",
+                "Yoram Globus"
+            ],
+            "winner": false
+        },
+        {
+            "id": 40,
+            "year": 1986,
+            "title": "Shanghai Surprise",
+            "studios": [
+                "MGM"
+            ],
+            "producers": [
+                "John Kohn"
+            ],
+            "winner": false
+        },
+        {
+            "id": 42,
+            "year": 1987,
+            "title": "Ishtar",
+            "studios": [
+                "Columbia Pictures"
+            ],
+            "producers": [
+                "Warren Beatty"
+            ],
+            "winner": false
+        },
+        {
+            "id": 43,
+            "year": 1987,
+            "title": "Jaws: The Revenge",
+            "studios": [
+                "Universal Studios"
+            ],
+            "producers": [
+                "Joseph Sargent"
+            ],
+            "winner": false
+        },
+        {
+            "id": 44,
+            "year": 1987,
+            "title": "Tough Guys Don't Dance",
+            "studios": [
+                "Cannon Films"
+            ],
+            "producers": [
+                "Menahem Golan",
+                "Yoram Globus"
+            ],
+            "winner": false
+        },
+        {
+            "id": 45,
+            "year": 1987,
+            "title": "Who's That Girl",
+            "studios": [
+                "Warner Bros."
+            ],
+            "producers": [
+                "Bernard Williams",
+                "Rosilyn Heller"
+            ],
+            "winner": false
+        },
+        {
+            "id": 47,
+            "year": 1988,
+            "title": "Caddyshack II",
+            "studios": [
+                "Warner Bros."
+            ],
+            "producers": [
+                "Jon Peters",
+                "Neil Canton",
+                "Peter Guber"
+            ],
+            "winner": false
+        },
+        {
+            "id": 48,
+            "year": 1988,
+            "title": "Hot to Trot",
+            "studios": [
+                "Warner Bros."
+            ],
+            "producers": [
+                "Steve Tisch"
+            ],
+            "winner": false
+        },
+        {
+            "id": 49,
+            "year": 1988,
+            "title": "Mac and Me",
+            "studios": [
+                "Orion Pictures"
+            ],
+            "producers": [
+                "R. J. Louis"
+            ],
+            "winner": false
+        },
+        {
+            "id": 50,
+            "year": 1988,
+            "title": "Rambo III",
+            "studios": [
+                "Carolco Pictures",
+                "TriStar Pictures"
+            ],
+            "producers": [
+                "Buzz Feitshans"
+            ],
+            "winner": false
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "unsorted": true,
+            "sorted": false,
+            "empty": true
+        },
+        "offset": 20,
+        "pageSize": 20,
+        "pageNumber": 1,
+        "paged": true,
+        "unpaged": false
+    },
+    "totalPages": 9,
+    "totalElements": 164,
+    "last": false,
+    "size": 20,
+    "number": 1,
+    "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+    },
+    "first": false,
+    "numberOfElements": 20,
+    "empty": false
+}
