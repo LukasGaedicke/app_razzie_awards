@@ -1,11 +1,17 @@
 # app_golden_raspberry_awards
 
-This projext provides an app to consult and access some dashboards about the golden raspberry awards.
+This project provides an app to consult and access some dashboards about the golden raspberry awards.
 
 
 ### - The project is in development.
 ### - The project is not ready for production. 
 ### - The project is not ready for use.
+
+
+
+|<img src="images/home_page.png" width="400">| <img src="images/all_movies_pagination.png" width="400">|
+|<img src="images/find_per_year.png" width="400">|<img src="images/year_multi_winners.png" width="400">|
+|<img src="images/list_studios_top_win.png" width="400">
 
 # Architecture
 
